@@ -26,7 +26,7 @@
 <br />
 
 ---
-<img align="left" alt="Grimmwolf-lab's Github Stats" src="https://github-readme-stats.Grimmwolf-lab.vercel.app/api?username=Grimmwolf-lab&show_icons=true&hide_border=true" />
+<img align="left" alt="Grimmwolf-lab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Grimmwolf-lab&show_icons=true&hide_border=true" />
 
 [instagram]:https://www.instagram.com/kailashbora13/
 [linkedin]: https://www.linkedin.com/in/kailash-bora-a12147171/
