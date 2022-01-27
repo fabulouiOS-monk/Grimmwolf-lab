@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Learner!
 - 🔭 I’m currently working on myself!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football/computer games
 
 ### Connect with me:
