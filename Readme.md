@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Learner!
 - 🔭 I’m currently working on myself!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Flutter
 - ⚡ Fun fact: I love to play football/computer games
 
 ### Connect with me:
